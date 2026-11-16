@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "1.8.2",
-  "notes": "Searchable parent selection for canon characters, OCs and supporting people; fixes Edit profile from an OC dossier; Family tree and Relationship map buttons now open their respective tabs in the correct AU focused on the character. No existing character data replaced. Back up before installing.",
-  "downloadUrl": "https://github.com/lizmbblue/moonbound-android/actions/runs/43957540221"
+  "versionCode": 14,
+  "versionName": "1.8.3",
+  "notes": "Fix unresponsive character-dossier buttons on Samsung Android WebView: touch-based activation for Edit profile, Family tree and Relationship map (with swipe protection). Keeps normal mouse/keyboard clicks. Back up your library before installing.",
+  "downloadUrl": "https://github.com/lizmbblue/moonbound-android/actions/runs/43960376057"
 }
