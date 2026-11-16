@@ -1,0 +1,6 @@
+{
+  "versionCode": 3,
+  "versionName": "1.2",
+  "notes": "Automatic update checks are now configured. Keep your original app installed; install the newer signed APK over it.",
+  "downloadUrl": "https://github.com/lizmbblue/moonbound-android/actions/workflows/build-apk.yml"
+}
