@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "1.8.3",
-  "notes": "Fix unresponsive character-dossier buttons on Samsung Android WebView: touch-based activation for Edit profile, Family tree and Relationship map (with swipe protection). Keeps normal mouse/keyboard clicks. Back up your library before installing.",
-  "downloadUrl": "https://github.com/lizmbblue/moonbound-android/actions/runs/43960376057"
+  "versionCode": 15,
+  "versionName": "1.8.4",
+  "notes": "Move Edit directly onto each OC profile card, beside View profile. Fix an issue where changes to existing characters could silently fail to save unless parentage was modified. Existing OCs and canon data are preserved. Back up before installing.",
+  "downloadUrl": "https://github.com/lizmbblue/moonbound-android/actions/runs/43962603996"
 }
