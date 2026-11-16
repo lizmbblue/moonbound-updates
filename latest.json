@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.6",
-  "notes": "Dragon Parents category; multiple guilds and affiliations for OCs and canon characters (including Selene's Dragon Gods + Diabolos membership); automatic canon parent and adoptive parent links scoped to each AU; two optional OC parent selectors linking to canon ancestors. Includes family-tree compatibility migration for existing records. Back up your library before installing.",
-  "downloadUrl": "https://github.com/lizmbblue/moonbound-android/actions/runs/43941195536"
+  "versionCode": 10,
+  "versionName": "1.7",
+  "notes": "Birthday day-and-month calendar pickers (no year), Birthdays sidebar overview with upcoming dates, optional canon birthdays, searchable OC and canon character relationship selectors, relationship type dropdowns, and AU-scoped graph links. Legacy birthdays and free-text relationships remain editable. Back up before installing.",
+  "downloadUrl": "https://github.com/lizmbblue/moonbound-android/actions/runs/43947363395"
 }
