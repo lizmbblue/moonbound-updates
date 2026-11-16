@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
-  "notes": "Automatic update checks are now configured. Keep your original app installed; install the newer signed APK over it.",
-  "downloadUrl": "https://github.com/lizmbblue/moonbound-android/actions/workflows/build-apk.yml"
+  "versionCode": 4,
+  "versionName": "1.3",
+  "notes": "New swipeable sidebar and dedicated Settings for Updates, Backup, Import and Theme. Signed APK installs over v1.2; back up your OCs before updating.",
+  "downloadUrl": "https://github.com/lizmbblue/moonbound-android/actions/runs/43901322559"
 }
