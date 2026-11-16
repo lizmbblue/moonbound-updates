@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.4.1",
-  "notes": "Add an optional, clickable HTTPS wiki/reference link to each saved canon character. Links also appear when placing canon characters in AUs. Fix the Cancel edit button display. Back up before updating.",
-  "downloadUrl": "https://github.com/lizmbblue/moonbound-android/actions/runs/43914039358"
+  "versionCode": 8,
+  "versionName": "1.5",
+  "notes": "Adds 161 Fairy Tail canon profiles with magic types or important titles, guild affiliations, and wiki references. Adds guild dropdowns for OCs and canon, plus canon search and guild filters. Existing data is preserved; back up before updating.",
+  "downloadUrl": "https://github.com/lizmbblue/moonbound-android/actions/runs/43936099213"
 }
