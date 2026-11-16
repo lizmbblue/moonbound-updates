@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.3.1",
-  "notes": "Fixed sidebar background disappearing during swipe-close animation. Includes all v1.3 sidebar and Settings features. Back up OCs before installing.",
-  "downloadUrl": "https://github.com/lizmbblue/moonbound-android/actions/runs/43903473649"
+  "versionCode": 6,
+  "versionName": "1.4",
+  "notes": "Fandom tags, an OC fandom dropdown, and a reusable canon-character library in the sidebar. Place canon characters independently in each AU's family trees and relationship maps. Backup before installing.",
+  "downloadUrl": "https://github.com/lizmbblue/moonbound-android/actions/runs/43910663218"
 }
