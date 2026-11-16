@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.4",
-  "notes": "Fandom tags, an OC fandom dropdown, and a reusable canon-character library in the sidebar. Place canon characters independently in each AU's family trees and relationship maps. Backup before installing.",
-  "downloadUrl": "https://github.com/lizmbblue/moonbound-android/actions/runs/43910663218"
+  "versionCode": 7,
+  "versionName": "1.4.1",
+  "notes": "Add an optional, clickable HTTPS wiki/reference link to each saved canon character. Links also appear when placing canon characters in AUs. Fix the Cancel edit button display. Back up before updating.",
+  "downloadUrl": "https://github.com/lizmbblue/moonbound-android/actions/runs/43914039358"
 }
