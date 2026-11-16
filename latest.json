@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "1.8",
-  "notes": "Fairy Tail fan birthday collection: 81 curated unofficial dates (14 fan-listed, 67 fan headcanon), each labelled with provenance and source links in canon profiles and Birthdays. Existing user-chosen dates are preserved. Remember last selected fandom. Back up before updating.",
-  "downloadUrl": "https://github.com/lizmbblue/moonbound-android/actions/runs/43952326574"
+  "versionCode": 12,
+  "versionName": "1.8.1",
+  "notes": "The four dashboard statistic cards are now tappable shortcuts: Profiles jumps to the OC list, Universes / AUs opens the universe manager, Favourites opens saved favourites, and Fandoms opens the fandom library. Existing characters and data are preserved. Back up before updating.",
+  "downloadUrl": "https://github.com/lizmbblue/moonbound-android/actions/runs/43954289194"
 }
