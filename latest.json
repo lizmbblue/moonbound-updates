@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.7",
-  "notes": "Birthday day-and-month calendar pickers (no year), Birthdays sidebar overview with upcoming dates, optional canon birthdays, searchable OC and canon character relationship selectors, relationship type dropdowns, and AU-scoped graph links. Legacy birthdays and free-text relationships remain editable. Back up before installing.",
-  "downloadUrl": "https://github.com/lizmbblue/moonbound-android/actions/runs/43947363395"
+  "versionCode": 11,
+  "versionName": "1.8",
+  "notes": "Fairy Tail fan birthday collection: 81 curated unofficial dates (14 fan-listed, 67 fan headcanon), each labelled with provenance and source links in canon profiles and Birthdays. Existing user-chosen dates are preserved. Remember last selected fandom. Back up before updating.",
+  "downloadUrl": "https://github.com/lizmbblue/moonbound-android/actions/runs/43952326574"
 }
