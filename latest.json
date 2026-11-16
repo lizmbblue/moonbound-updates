@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.5",
-  "notes": "Adds 161 Fairy Tail canon profiles with magic types or important titles, guild affiliations, and wiki references. Adds guild dropdowns for OCs and canon, plus canon search and guild filters. Existing data is preserved; back up before updating.",
-  "downloadUrl": "https://github.com/lizmbblue/moonbound-android/actions/runs/43936099213"
+  "versionCode": 9,
+  "versionName": "1.6",
+  "notes": "Dragon Parents category; multiple guilds and affiliations for OCs and canon characters (including Selene's Dragon Gods + Diabolos membership); automatic canon parent and adoptive parent links scoped to each AU; two optional OC parent selectors linking to canon ancestors. Includes family-tree compatibility migration for existing records. Back up your library before installing.",
+  "downloadUrl": "https://github.com/lizmbblue/moonbound-android/actions/runs/43941195536"
 }
